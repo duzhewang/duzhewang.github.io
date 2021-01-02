@@ -1,1 +1,1 @@
-# This is my personal website: https://duzhewang.github.io/
+This is my personal website: https://duzhewang.github.io/
